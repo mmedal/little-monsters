@@ -1,5 +1,7 @@
 ## Little Monsters
 
+![little monster example](/images/avatar-example.png?raw=true "Little Monster")
+
 Brightwheel's little monster avatar generator.
 
 ### System Dependencies:
